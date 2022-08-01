@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our web app is a plant app that allows you to sign up and add your 
+own garden to the database.  You can add and delete your plants in
+your online garden.  It is very useful to keep track of your garden and 
+to keep all your information about your plants in one spot.
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in.  Each user gets a garden.
+Create a garden: Users will be able to create their own online garden.  They can add and delete plants as needed.
+Search: Users will be able to search for gardens.
 ### Technologies
-Include Technologies here
+Javascript
+React
+Firebase
 ### What I'll Have to Learn
-Include what you will need to learn here
+React
+Firebase
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/Jf0aFouZ/lc101-liftoff-group-project
