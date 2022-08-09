@@ -7,4 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+https://github.com/Jul-2022-LC-LiftOff/Grow
+
+Grow is a web app that provides a database of a community of gardens.  You can add and delete plants from your garden along with information about each plant. You can add pictures of your garden and view other people's gardens.
